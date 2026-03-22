@@ -1,0 +1,18 @@
+.unity-multi-column-view__row-container.Category{
+    background-color: #FFB347;
+}
+
+.unity-multi-column-view__row-container.Category Label{
+    color: black;
+}
+
+.unity-multi-column-view__row-container.Category .hierarchy-item__icon{
+    display: none;
+}
+
+.unity-multi-column-view__row-container.Category:hover{
+    background-color: #FFB347;
+}
+.unity-multi-column-view__row-container.Category:active{
+    background-color: #FFB347;
+}
